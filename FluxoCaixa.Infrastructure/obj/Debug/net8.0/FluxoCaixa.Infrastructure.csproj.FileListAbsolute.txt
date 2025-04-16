@@ -1,0 +1,15 @@
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Infrastructure\bin\Debug\net8.0\FluxoCaixa.Infrastructure.deps.json
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Infrastructure\bin\Debug\net8.0\FluxoCaixa.Infrastructure.dll
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Infrastructure\bin\Debug\net8.0\FluxoCaixa.Infrastructure.pdb
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Infrastructure\bin\Debug\net8.0\FluxoCaixa.Domain.dll
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Infrastructure\bin\Debug\net8.0\FluxoCaixa.Domain.pdb
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Infrastructure\obj\Debug\net8.0\FluxoCaixa.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Infrastructure\obj\Debug\net8.0\FluxoCaixa.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Infrastructure\obj\Debug\net8.0\FluxoCaixa.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Infrastructure\obj\Debug\net8.0\FluxoCaixa.Infrastructure.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Infrastructure\obj\Debug\net8.0\FluxoCaixa.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Infrastructure\obj\Debug\net8.0\FluxoCai.26A96584.Up2Date
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Infrastructure\obj\Debug\net8.0\FluxoCaixa.Infrastructure.dll
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Infrastructure\obj\Debug\net8.0\refint\FluxoCaixa.Infrastructure.dll
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Infrastructure\obj\Debug\net8.0\FluxoCaixa.Infrastructure.pdb
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Infrastructure\obj\Debug\net8.0\ref\FluxoCaixa.Infrastructure.dll

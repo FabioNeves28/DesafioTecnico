@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OnroWGkBG3MyNTbfSpkuJvxbYM5MksGmP3dJNnpMUFA=",
+  "Source": "FluxoCaixa.API",
+  "BasePath": "_content/FluxoCaixa.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

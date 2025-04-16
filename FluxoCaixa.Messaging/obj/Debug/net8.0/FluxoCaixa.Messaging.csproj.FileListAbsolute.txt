@@ -1,0 +1,12 @@
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Messaging\bin\Debug\net8.0\FluxoCaixa.Messaging.deps.json
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Messaging\bin\Debug\net8.0\FluxoCaixa.Messaging.dll
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Messaging\bin\Debug\net8.0\FluxoCaixa.Messaging.pdb
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Messaging\obj\Debug\net8.0\FluxoCaixa.Messaging.csproj.AssemblyReference.cache
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Messaging\obj\Debug\net8.0\FluxoCaixa.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Messaging\obj\Debug\net8.0\FluxoCaixa.Messaging.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Messaging\obj\Debug\net8.0\FluxoCaixa.Messaging.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Messaging\obj\Debug\net8.0\FluxoCaixa.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Messaging\obj\Debug\net8.0\FluxoCaixa.Messaging.dll
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Messaging\obj\Debug\net8.0\refint\FluxoCaixa.Messaging.dll
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Messaging\obj\Debug\net8.0\FluxoCaixa.Messaging.pdb
+C:\Users\Fabio\source\repos\FluxoCaixa.API\FluxoCaixa.Messaging\obj\Debug\net8.0\ref\FluxoCaixa.Messaging.dll

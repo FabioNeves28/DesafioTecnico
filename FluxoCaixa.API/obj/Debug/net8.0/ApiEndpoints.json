@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "ConsolidadoController",
+    "Method": "ObterConsolidado",
+    "RelativePath": "api/Consolidado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluxoCaixa.API.Controllers.LancamentosController",
+    "Method": "Registrar",
+    "RelativePath": "api/Lancamentos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FluxoCaixa.Application.DTOs.LancamentoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluxoCaixa.API.Controllers.LancamentosController",
+    "Method": "ObterSaldo",
+    "RelativePath": "api/Lancamentos/saldo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
